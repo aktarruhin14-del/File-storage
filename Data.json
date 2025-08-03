@@ -1,0 +1,29 @@
+[
+  {
+    "folderName": "Folder 1",
+    "show": true,
+    "files": [
+      {
+        "fileName": "Movie One",
+        "fileSize": "1.5GB",
+        "fileExtension": ".mp4",
+        "copyLink": "https://example.com/files/movie1",
+        "downloadLink": "https://example.com/download/movie1",
+        "show": true
+      },
+      {
+        "fileName": "Hidden File",
+        "fileSize": "500MB",
+        "fileExtension": ".zip",
+        "copyLink": "https://example.com/files/hidden",
+        "downloadLink": "https://example.com/download/hidden",
+        "show": false
+      }
+    ]
+  },
+  {
+    "folderName": "Secret Folder",
+    "show": false,
+    "files": []
+  }
+]
