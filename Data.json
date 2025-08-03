@@ -17,13 +17,13 @@
         "fileExtension": ".zip",
         "copyLink": "https://example.com/files/hidden",
         "downloadLink": "https://example.com/download/hidden",
-        "show": false
+        "show": true
       }
     ]
   },
   {
     "folderName": "Secret Folder",
-    "show": false,
+    "show": true,
     "files": []
   }
 ]
